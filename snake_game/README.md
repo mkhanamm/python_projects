@@ -7,7 +7,7 @@ Implemented keyboard controls, collision detection, scoring system, and restart 
 
 ## 📄 Documentation
 Project explanation and screenshots available here:  
-👉 [View Documentation](Snake_Game_Report.pdf)
+👉 [View Documentation]((pygame documentation).pdf)
 
 
 
